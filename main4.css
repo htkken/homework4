@@ -1,0 +1,10 @@
+p.abc {
+   height:0px;
+    width:0px;
+    background-color:white;
+    border-top:solid green 100px ;
+    border-right: solid red 100px;
+    border-bottom:solid blue 100px;
+    border-left: solid yellow 100px;
+    
+}
